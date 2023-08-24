@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorGradientStart">#1f7ea1</color>
+    <color name="colorGradientCenter">#154C46</color>
+    <color name="colorGradientEnd">#112C42</color>
+
+    <color name="button_background">#43ACAF</color>
+    <color name="button_text">#ffffff</color>
+
+</resources>
